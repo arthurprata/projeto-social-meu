@@ -31,7 +31,7 @@ section#telefone {
 
     height: 730px;
     width: 361px;
-    background: url('../imagens/frame-iphone-13.png') no-repeat;
+    background: url('../imagens/referencia-telefone.png') no-repeat;
     background-size: cover;
 }
 
@@ -41,6 +41,7 @@ iframe#tela {
     left: 18px;
     width: 324px;
     height: 699px;
+    border-radius: 40px;
 }
 
 section#redes-sociais {
